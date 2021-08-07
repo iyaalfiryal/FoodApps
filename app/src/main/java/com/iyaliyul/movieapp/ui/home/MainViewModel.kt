@@ -11,6 +11,7 @@ import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+//todo 4
 @HiltViewModel
 class MainViewModel @Inject constructor(
     private val repository: FoodRepository

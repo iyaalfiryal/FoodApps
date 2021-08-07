@@ -8,6 +8,7 @@ import com.iyaliyul.movieapp.utils.loadImage
 import com.xwray.groupie.viewbinding.BindableItem
 import kotlin.contracts.Returns
 
+//todo 8
 class MainItem(
     private val food: FoodCategoryItem,
     private val onclick: (FoodCategoryItem) -> Unit
